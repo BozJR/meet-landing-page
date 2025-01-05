@@ -1,6 +1,6 @@
-# Frontend Mentor - Meet landing page solution
+# Meet landing page
 
-This is My solution to the [Meet landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/meet-landing-page-rbTDS6OUR). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is My solution to creating a Meet (social) landing page with no interactivity. 
 
 
 ## Table of contents
@@ -12,10 +12,6 @@ This is My solution to the [Meet landing page challenge on Frontend Mentor](http
   - [Continued development](#continued-development)
   - [Author](#author)
   
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
-## Overview
 
 ### The challenge
 
@@ -44,10 +40,10 @@ Users should be able to:
 
 ### Continued development
 
-I need to practise using CSS flexbox & CSS grid alot more to get the hang of it and no what is best and what works for what element etc moving forward. 
+I need to practice using CSS flexbox & CSS grid a lot more to get the hang of it and no what is best and what works for what element etc moving forward. 
 
 
 ## Author
 
-- Frontend Mentor - [@BozJR](https://www.frontendmentor.io/profile/BozJR)
+- GitHub Profile - https://github.com/BozJR?tab=repositories
 
